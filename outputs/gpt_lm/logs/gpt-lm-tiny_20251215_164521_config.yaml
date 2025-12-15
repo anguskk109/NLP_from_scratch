@@ -1,0 +1,10 @@
+dropout: 0.1
+ffn_hidden_size: 512
+hidden_size: 256
+initializer_range: 0.02
+layer_norm_eps: 1.0e-05
+max_seq_len: 128
+num_heads: 4
+num_layers: 4
+pad_token_id: 0
+vocab_size: 50257

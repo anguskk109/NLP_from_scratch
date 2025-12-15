@@ -1,0 +1,140 @@
+{"train/lm_loss": 5.14955188035965, "step": 100}
+{"train/lm_loss": 3.8377728414535524, "step": 200}
+{"train/lm_loss": 3.5730657386779785, "step": 300}
+{"train/lm_loss": 3.380315878391266, "step": 400}
+{"train/lm_loss": 3.2155036664009096, "step": 500}
+{"val/lm_loss": 3.1863271170432856, "val/perplexity": 24.199384689331055, "step": 500}
+{"generated_text": "Once upon a time, there was a little girl called Lily. She was very very creative, so she would play with it with her toys. One day, she asked her mommy, \"Lily. She wanted to go home to the park, but be careful", "step": 500}
+{"train/lm_loss": 3.12778377532959, "step": 600}
+{"train/lm_loss": 3.0214293575286866, "step": 700}
+{"train/lm_loss": 2.9542634534835814, "step": 800}
+{"train/lm_loss": 2.88766462802887, "step": 900}
+{"train/lm_loss": 2.828731918334961, "step": 1000}
+{"val/lm_loss": 2.8219839560914024, "val/perplexity": 16.810169219970703, "step": 1000}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She was very persistent and loved to eat. She would look around at all around her. One day, she found a big, red car that was a red bug! The bug was sad because it had", "step": 1000}
+{"train/lm_loss": 2.782706174850464, "step": 1100}
+{"train/lm_loss": 2.743389301300049, "step": 1200}
+{"train/lm_loss": 2.7100139093399047, "step": 1300}
+{"train/lm_loss": 2.6830873107910156, "step": 1400}
+{"train/lm_loss": 2.66376788854599, "step": 1500}
+{"val/lm_loss": 2.6487222989017423, "val/perplexity": 14.135967254638672, "step": 1500}
+{"generated_text": "Once upon a time, there was a big, fat bear who loved to eat carrots. He was the wild and had a lot of fun.\n\nOne day, the rabbit's friend, a little little rabbit named Sammy. Sammy wanted to take a stroll, so", "step": 1500}
+{"train/lm_loss": 2.6102400374412538, "step": 1600}
+{"train/lm_loss": 2.5519815564155577, "step": 1700}
+{"train/lm_loss": 2.552032961845398, "step": 1800}
+{"train/lm_loss": 2.5461021637916565, "step": 1900}
+{"train/lm_loss": 2.5154324793815612, "step": 2000}
+{"val/lm_loss": 2.5519758202347362, "val/perplexity": 12.83243179321289, "step": 2000}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to play outside and sing songs with her friends. One day, Lily went to the park to play in the park with her friends. Her friends were having fun until they arrived at the park.", "step": 2000}
+{"train/lm_loss": 2.4974804520606995, "step": 2100}
+{"train/lm_loss": 2.4966750597953795, "step": 2200}
+{"train/lm_loss": 2.489922618865967, "step": 2300}
+{"train/lm_loss": 2.4606032872200014, "step": 2400}
+{"train/lm_loss": 2.46988671541214, "step": 2500}
+{"val/lm_loss": 2.485061108076678, "val/perplexity": 12.00185489654541, "step": 2500}
+{"generated_text": "Once upon a time there was a little girl named Jenny. She loved playing outside in the sunshine, and her little brother ran as fast as she could. One day, Jenny's mommy said to she could help the plants, because they were getting there for a big", "step": 2500}
+{"train/lm_loss": 2.46782418012619, "step": 2600}
+{"train/lm_loss": 2.4311576008796694, "step": 2700}
+{"train/lm_loss": 2.435117003917694, "step": 2800}
+{"train/lm_loss": 2.407643110752106, "step": 2900}
+{"train/lm_loss": 2.4260976672172547, "step": 3000}
+{"val/lm_loss": 2.4339652212516687, "val/perplexity": 11.404011726379395, "step": 3000}
+{"generated_text": "Once upon a time, there was a little boy named Timmy. Timmy loved to play with his toys and explore the world around him. One day, Timmy's mom said, \"Timmy, let's go to the park with you.\" Timmy was", "step": 3000}
+{"train/lm_loss": 2.408558053970337, "step": 3100}
+{"train/lm_loss": 2.360732114315033, "step": 3200}
+{"train/lm_loss": 2.333549163341522, "step": 3300}
+{"train/lm_loss": 2.333248002529144, "step": 3400}
+{"train/lm_loss": 2.347307040691376, "step": 3500}
+{"val/lm_loss": 2.391150845661618, "val/perplexity": 10.926061630249023, "step": 3500}
+{"generated_text": "Once upon a time there was a little girl named Lily. She loved to sing and twig around her room. One day, she heard a sound. She flew closer and saw a big tree. She thought it was so pretty and pretty.\n\nThe bird said", "step": 3500}
+{"train/lm_loss": 2.3427624535560607, "step": 3600}
+{"train/lm_loss": 2.3279750108718873, "step": 3700}
+{"train/lm_loss": 2.319750771522522, "step": 3800}
+{"train/lm_loss": 2.314125633239746, "step": 3900}
+{"train/lm_loss": 2.337380836009979, "step": 4000}
+{"val/lm_loss": 2.3680847592355327, "val/perplexity": 10.676922798156738, "step": 4000}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to play outside and run around. One day, she went to the park to play. She saw a boy sitting on a bench.\n\nLily thought it was funny and wanted to play", "step": 4000}
+{"train/lm_loss": 2.312596654891968, "step": 4100}
+{"train/lm_loss": 2.306655077934265, "step": 4200}
+{"train/lm_loss": 2.3088706946372985, "step": 4300}
+{"train/lm_loss": 2.2980833530426024, "step": 4400}
+{"train/lm_loss": 2.306673209667206, "step": 4500}
+{"val/lm_loss": 2.33703171604996, "val/perplexity": 10.35046672821045, "step": 4500}
+{"generated_text": "Once upon a time, there was a big boat in the sea. The boat was big and green, but the boat was too big for the boat. It was big and pretty and fast. \n\nOne day, the boat saw a big fish in the distance", "step": 4500}
+{"train/lm_loss": 2.2827297973632814, "step": 4600}
+{"train/lm_loss": 2.298383882045746, "step": 4700}
+{"train/lm_loss": 2.2237144017219546, "step": 4800}
+{"train/lm_loss": 2.220311903953552, "step": 4900}
+{"train/lm_loss": 2.253519537448883, "step": 5000}
+{"val/lm_loss": 2.3247374467405804, "val/perplexity": 10.22399616241455, "step": 5000}
+{"generated_text": "Once upon a time, there was a boy named Timmy. Timmy loved to go fishing with his mommy. One day, Timmy saw a big, heavy rock on the ground. He wanted to pick it up. But his mommy said, \"Let", "step": 5000}
+{"train/lm_loss": 2.2277033591270445, "step": 5100}
+{"train/lm_loss": 2.2508933615684508, "step": 5200}
+{"train/lm_loss": 2.2376608204841615, "step": 5300}
+{"train/lm_loss": 2.241185030937195, "step": 5400}
+{"train/lm_loss": 2.25663654088974, "step": 5500}
+{"val/lm_loss": 2.293987779474605, "val/perplexity": 9.914395332336426, "step": 5500}
+{"generated_text": "Once upon a time, there was a boy named Tim. Tim was very proud of himself. He was playing with his toys all day long. One day, his mom gave him a surprise for him. Tim was so excited to see what was inside the box. ", "step": 5500}
+{"train/lm_loss": 2.219728744029999, "step": 5600}
+{"train/lm_loss": 2.2368029356002808, "step": 5700}
+{"train/lm_loss": 2.2301001262664797, "step": 5800}
+{"train/lm_loss": 2.2442041206359864, "step": 5900}
+{"train/lm_loss": 2.218898434638977, "step": 6000}
+{"val/lm_loss": 2.2865359339903066, "val/perplexity": 9.840789794921875, "step": 6000}
+{"generated_text": "Once upon a time there was a young boy named Sam. He loved to play outside in the snow and make snowballs. One day, Sam decided to play outside. He ran and ran, but he saw a big hill near the hill. He wanted to climb up", "step": 6000}
+{"train/lm_loss": 2.2295592975616456, "step": 6100}
+{"train/lm_loss": 2.2194983744621277, "step": 6200}
+{"train/lm_loss": 2.201780971288681, "step": 6300}
+{"train/lm_loss": 2.16628662109375, "step": 6400}
+{"train/lm_loss": 2.1780000245571136, "step": 6500}
+{"val/lm_loss": 2.270925612810738, "val/perplexity": 9.688363075256348, "step": 6500}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to play outside with her friends. One day, they went on a walk in the park. They saw a big tree with a hole. Lily was excited and wanted to climb it, but she", "step": 6500}
+{"train/lm_loss": 2.17198627948761, "step": 6600}
+{"train/lm_loss": 2.161820113658905, "step": 6700}
+{"train/lm_loss": 2.1798947179317474, "step": 6800}
+{"train/lm_loss": 2.1753722167015077, "step": 6900}
+{"train/lm_loss": 2.1871671068668364, "step": 7000}
+{"val/lm_loss": 2.258717875285233, "val/perplexity": 9.570809364318848, "step": 7000}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to play outside and run in the dirt. One day, Lily's mommy said, \"Lily, we can't go outside and play.\" Lily didn't want to play, but she", "step": 7000}
+{"train/lm_loss": 2.187956326007843, "step": 7100}
+{"train/lm_loss": 2.187636914253235, "step": 7200}
+{"train/lm_loss": 2.193151824474335, "step": 7300}
+{"train/lm_loss": 2.1820319724082946, "step": 7400}
+{"train/lm_loss": 2.178918921947479, "step": 7500}
+{"val/lm_loss": 2.2499828713816026, "val/perplexity": 9.48757266998291, "step": 7500}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to eat apples from her mommy and daddy. One day, they decided to have a picnic with their family. They gathered all the fruits in the basket, but Lily was careful not to share", "step": 7500}
+{"train/lm_loss": 2.1962138628959655, "step": 7600}
+{"train/lm_loss": 2.1828624665737153, "step": 7700}
+{"train/lm_loss": 2.157763019800186, "step": 7800}
+{"train/lm_loss": 2.1142594635486605, "step": 7900}
+{"train/lm_loss": 2.113874393701553, "step": 8000}
+{"val/lm_loss": 2.2486068362583107, "val/perplexity": 9.474528312683105, "step": 8000}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to play outside in the grass. One day, she saw a big orange butterfly on a branch. She thought it would be fun to catch it. \n\nBut one day, Lily's", "step": 8000}
+{"train/lm_loss": 2.135040570497513, "step": 8100}
+{"train/lm_loss": 2.136316385269165, "step": 8200}
+{"train/lm_loss": 2.1288131856918335, "step": 8300}
+{"train/lm_loss": 2.1272867774963378, "step": 8400}
+{"train/lm_loss": 2.145950628519058, "step": 8500}
+{"val/lm_loss": 2.231655255769599, "val/perplexity": 9.31527328491211, "step": 8500}
+{"generated_text": "Once upon a time, there was a little girl named Lily. She loved to dance and sing songs. One day, she went to the park to play. She saw a boy named Jack that looked very fancy. Jack asked Lily to play with him. Lily said yes", "step": 8500}
+{"train/lm_loss": 2.1326090931892394, "step": 8600}
+{"train/lm_loss": 2.144461598396301, "step": 8700}
+{"train/lm_loss": 2.141839370727539, "step": 8800}
+{"train/lm_loss": 2.1536038637161257, "step": 8900}
+{"train/lm_loss": 2.145406531095505, "step": 9000}
+{"val/lm_loss": 2.2152942345883, "val/perplexity": 9.164104461669922, "step": 9000}
+{"generated_text": "Once upon a time, there was a brave knight. He loved to sail on his best friend, the princess. One day, he decided to sail on his ship. He sailed on the ocean, holding onto the shore.\n\nThe knight was scared, but he", "step": 9000}
+{"train/lm_loss": 2.1491909265518188, "step": 9100}
+{"train/lm_loss": 2.1463252913951876, "step": 9200}
+{"train/lm_loss": 2.139193847179413, "step": 9300}
+{"train/lm_loss": 2.1432041609287262, "step": 9400}
+{"train/lm_loss": 2.0799358820915224, "step": 9500}
+{"val/lm_loss": 2.208954711440087, "val/perplexity": 9.106193542480469, "step": 9500}
+{"generated_text": "Once upon a time, there was a little girl named Lily. One day, she went to the store with her mommy to buy some candy. Lily's mommy brought her a big bag with some candy. Lily was so excited to go home because she loved the", "step": 9500}
+{"train/lm_loss": 2.1014279139041903, "step": 9600}
+{"train/lm_loss": 2.0849714183807375, "step": 9700}
+{"train/lm_loss": 2.0909234035015105, "step": 9800}
+{"train/lm_loss": 2.091119745969772, "step": 9900}
+{"train/lm_loss": 2.106953839063644, "step": 10000}
+{"val/lm_loss": 2.211322100390871, "val/perplexity": 9.127776145935059, "step": 10000}
+{"generated_text": "Once upon a time, there was a little boy named Timmy. Timmy loved to play outside in the park with his friends. One day, Timmy found a shiny jewel on his head. It was so shiny and shiny.\n\nTimmy decided to take", "step": 10000}

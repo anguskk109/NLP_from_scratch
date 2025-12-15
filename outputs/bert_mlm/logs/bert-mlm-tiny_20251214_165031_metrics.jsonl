@@ -1,0 +1,720 @@
+{"train/mlm_loss": 6.238466935157776, "step": 100}
+{"train/mlm_loss": 5.553336334228516, "step": 200}
+{"train/mlm_loss": 5.395283889770508, "step": 300}
+{"train/mlm_loss": 5.266851511001587, "step": 400}
+{"train/mlm_loss": 5.146122274398803, "step": 500}
+{"val/mlm_loss": 5.22047025680542, "val/mlm_accuracy": 0.1540852341568772, "step": 500}
+{"train/mlm_loss": 5.106785588264465, "step": 600}
+{"train/mlm_loss": 5.0731739854812625, "step": 700}
+{"train/mlm_loss": 5.020530486106873, "step": 800}
+{"train/mlm_loss": 4.97314868927002, "step": 900}
+{"train/mlm_loss": 4.943223090171814, "step": 1000}
+{"val/mlm_loss": 5.02559980392456, "val/mlm_accuracy": 0.17438778755433054, "step": 1000}
+{"train/mlm_loss": 4.929255890846252, "step": 1100}
+{"train/mlm_loss": 4.910675435066223, "step": 1200}
+{"train/mlm_loss": 4.883350663185119, "step": 1300}
+{"train/mlm_loss": 4.874721727371216, "step": 1400}
+{"train/mlm_loss": 4.8434199666976925, "step": 1500}
+{"val/mlm_loss": 4.938344970703125, "val/mlm_accuracy": 0.18676707907477139, "step": 1500}
+{"train/mlm_loss": 4.817295207977295, "step": 1600}
+{"train/mlm_loss": 4.812509379386902, "step": 1700}
+{"train/mlm_loss": 4.791736397743225, "step": 1800}
+{"train/mlm_loss": 4.783090772628785, "step": 1900}
+{"train/mlm_loss": 4.75676962852478, "step": 2000}
+{"val/mlm_loss": 4.770886695861816, "val/mlm_accuracy": 0.1939179783702752, "step": 2000}
+{"train/mlm_loss": 4.701648106575012, "step": 2100}
+{"train/mlm_loss": 4.633799705505371, "step": 2200}
+{"train/mlm_loss": 4.498683409690857, "step": 2300}
+{"train/mlm_loss": 4.284863293170929, "step": 2400}
+{"train/mlm_loss": 3.954557855129242, "step": 2500}
+{"val/mlm_loss": 3.7345145206451416, "val/mlm_accuracy": 0.35875916285987464, "step": 2500}
+{"train/mlm_loss": 3.691579194068909, "step": 2600}
+{"train/mlm_loss": 3.5039158844947815, "step": 2700}
+{"train/mlm_loss": 3.3982878017425535, "step": 2800}
+{"train/mlm_loss": 3.322153687477112, "step": 2900}
+{"train/mlm_loss": 3.2601544952392576, "step": 3000}
+{"val/mlm_loss": 3.1108306617736816, "val/mlm_accuracy": 0.43515042563316236, "step": 3000}
+{"train/mlm_loss": 3.1773240303993227, "step": 3100}
+{"train/mlm_loss": 3.1605862760543824, "step": 3200}
+{"train/mlm_loss": 3.13576979637146, "step": 3300}
+{"train/mlm_loss": 3.086268467903137, "step": 3400}
+{"train/mlm_loss": 3.0690862584114074, "step": 3500}
+{"val/mlm_loss": 2.9222782325744627, "val/mlm_accuracy": 0.4566532258064516, "step": 3500}
+{"train/mlm_loss": 2.986401414871216, "step": 3600}
+{"train/mlm_loss": 3.010020670890808, "step": 3700}
+{"train/mlm_loss": 2.9581817626953124, "step": 3800}
+{"train/mlm_loss": 2.9608332824707033, "step": 3900}
+{"train/mlm_loss": 2.906341559886932, "step": 4000}
+{"val/mlm_loss": 2.770407958984375, "val/mlm_accuracy": 0.47921351252418554, "step": 4000}
+{"train/mlm_loss": 2.8763913226127626, "step": 4100}
+{"train/mlm_loss": 2.871573941707611, "step": 4200}
+{"train/mlm_loss": 2.8653028059005736, "step": 4300}
+{"train/mlm_loss": 2.8476665472984313, "step": 4400}
+{"train/mlm_loss": 2.8367860603332518, "step": 4500}
+{"val/mlm_loss": 2.668260108947754, "val/mlm_accuracy": 0.4904329235702833, "step": 4500}
+{"train/mlm_loss": 2.8504633045196535, "step": 4600}
+{"train/mlm_loss": 2.802543442249298, "step": 4700}
+{"train/mlm_loss": 2.781132116317749, "step": 4800}
+{"train/mlm_loss": 2.7801339173316957, "step": 4900}
+{"train/mlm_loss": 2.726259083747864, "step": 5000}
+{"val/mlm_loss": 2.5881106567382814, "val/mlm_accuracy": 0.5025530771298038, "step": 5000}
+{"train/mlm_loss": 2.7206441068649294, "step": 5100}
+{"train/mlm_loss": 2.7057490277290346, "step": 5200}
+{"train/mlm_loss": 2.6848876380920412, "step": 5300}
+{"train/mlm_loss": 2.675318534374237, "step": 5400}
+{"train/mlm_loss": 2.673987410068512, "step": 5500}
+{"val/mlm_loss": 2.513913404464722, "val/mlm_accuracy": 0.5155555555555555, "step": 5500}
+{"train/mlm_loss": 2.643599727153778, "step": 5600}
+{"train/mlm_loss": 2.645864746570587, "step": 5700}
+{"train/mlm_loss": 2.600533185005188, "step": 5800}
+{"train/mlm_loss": 2.594829943180084, "step": 5900}
+{"train/mlm_loss": 2.578662292957306, "step": 6000}
+{"val/mlm_loss": 2.4176457099914552, "val/mlm_accuracy": 0.5276363250583492, "step": 6000}
+{"train/mlm_loss": 2.5567003870010376, "step": 6100}
+{"train/mlm_loss": 2.5495569920539856, "step": 6200}
+{"train/mlm_loss": 2.537119817733765, "step": 6300}
+{"train/mlm_loss": 2.52333345413208, "step": 6400}
+{"train/mlm_loss": 2.4893115663528445, "step": 6500}
+{"val/mlm_loss": 2.3330735082626344, "val/mlm_accuracy": 0.5364319599168488, "step": 6500}
+{"train/mlm_loss": 2.4851840853691103, "step": 6600}
+{"train/mlm_loss": 2.4666430377960205, "step": 6700}
+{"train/mlm_loss": 2.480956344604492, "step": 6800}
+{"train/mlm_loss": 2.4279367399215697, "step": 6900}
+{"train/mlm_loss": 2.455285761356354, "step": 7000}
+{"val/mlm_loss": 2.2665663414001465, "val/mlm_accuracy": 0.5509190788083668, "step": 7000}
+{"train/mlm_loss": 2.4247580194473266, "step": 7100}
+{"train/mlm_loss": 2.4031406474113464, "step": 7200}
+{"train/mlm_loss": 2.3951152110099794, "step": 7300}
+{"train/mlm_loss": 2.4147285270690917, "step": 7400}
+{"train/mlm_loss": 2.392403039932251, "step": 7500}
+{"val/mlm_loss": 2.1910179233551026, "val/mlm_accuracy": 0.5572704688408479, "step": 7500}
+{"train/mlm_loss": 2.386970818042755, "step": 7600}
+{"train/mlm_loss": 2.387399506568909, "step": 7700}
+{"train/mlm_loss": 2.369584845304489, "step": 7800}
+{"train/mlm_loss": 2.3501001811027527, "step": 7900}
+{"train/mlm_loss": 2.346113817691803, "step": 8000}
+{"val/mlm_loss": 2.193375513076782, "val/mlm_accuracy": 0.5587081035214255, "step": 8000}
+{"train/mlm_loss": 2.3449034023284914, "step": 8100}
+{"train/mlm_loss": 2.3218081831932067, "step": 8200}
+{"train/mlm_loss": 2.319792070388794, "step": 8300}
+{"train/mlm_loss": 2.2991867780685427, "step": 8400}
+{"train/mlm_loss": 2.2911073398590087, "step": 8500}
+{"val/mlm_loss": 2.121167413711548, "val/mlm_accuracy": 0.5688405797101449, "step": 8500}
+{"train/mlm_loss": 2.3050078189373018, "step": 8600}
+{"train/mlm_loss": 2.2806206452846527, "step": 8700}
+{"train/mlm_loss": 2.26948673248291, "step": 8800}
+{"train/mlm_loss": 2.2524555921554565, "step": 8900}
+{"train/mlm_loss": 2.275277056694031, "step": 9000}
+{"val/mlm_loss": 2.0850292987823487, "val/mlm_accuracy": 0.5717766712575485, "step": 9000}
+{"train/mlm_loss": 2.248819019794464, "step": 9100}
+{"train/mlm_loss": 2.26891055226326, "step": 9200}
+{"train/mlm_loss": 2.2469597339630125, "step": 9300}
+{"train/mlm_loss": 2.210996481180191, "step": 9400}
+{"train/mlm_loss": 2.2236253821849825, "step": 9500}
+{"val/mlm_loss": 2.0288208332061766, "val/mlm_accuracy": 0.5821468565029595, "step": 9500}
+{"train/mlm_loss": 2.209694253206253, "step": 9600}
+{"train/mlm_loss": 2.204192444086075, "step": 9700}
+{"train/mlm_loss": 2.1950297236442564, "step": 9800}
+{"train/mlm_loss": 2.1964278876781465, "step": 9900}
+{"train/mlm_loss": 2.1531785845756533, "step": 10000}
+{"val/mlm_loss": 1.9934817266464233, "val/mlm_accuracy": 0.5892866585585109, "step": 10000}
+{"train/mlm_loss": 2.179192292690277, "step": 10100}
+{"train/mlm_loss": 2.1647974753379824, "step": 10200}
+{"train/mlm_loss": 2.1763874983787534, "step": 10300}
+{"train/mlm_loss": 2.1500384545326234, "step": 10400}
+{"train/mlm_loss": 2.1613395190238953, "step": 10500}
+{"val/mlm_loss": 1.9888027238845825, "val/mlm_accuracy": 0.5891612085358123, "step": 10500}
+{"train/mlm_loss": 2.148024011850357, "step": 10600}
+{"train/mlm_loss": 2.149037718772888, "step": 10700}
+{"train/mlm_loss": 2.1627113580703736, "step": 10800}
+{"train/mlm_loss": 2.137813826799393, "step": 10900}
+{"train/mlm_loss": 2.1209045112133027, "step": 11000}
+{"val/mlm_loss": 1.957212149620056, "val/mlm_accuracy": 0.5963171301209934, "step": 11000}
+{"train/mlm_loss": 2.1096131575107573, "step": 11100}
+{"train/mlm_loss": 2.1221022641658784, "step": 11200}
+{"train/mlm_loss": 2.104509712457657, "step": 11300}
+{"train/mlm_loss": 2.1072566759586335, "step": 11400}
+{"train/mlm_loss": 2.0900806868076325, "step": 11500}
+{"val/mlm_loss": 1.9468986949920655, "val/mlm_accuracy": 0.600667231518746, "step": 11500}
+{"train/mlm_loss": 2.102770928144455, "step": 11600}
+{"train/mlm_loss": 2.096133722066879, "step": 11700}
+{"train/mlm_loss": 2.0514785969257354, "step": 11800}
+{"train/mlm_loss": 2.0846595454216, "step": 11900}
+{"train/mlm_loss": 2.0819097340106962, "step": 12000}
+{"val/mlm_loss": 1.9196363878250122, "val/mlm_accuracy": 0.6012597925047639, "step": 12000}
+{"train/mlm_loss": 2.093798075914383, "step": 12100}
+{"train/mlm_loss": 2.0464627254009247, "step": 12200}
+{"train/mlm_loss": 2.053685441017151, "step": 12300}
+{"train/mlm_loss": 2.0615413784980774, "step": 12400}
+{"train/mlm_loss": 2.057985558509827, "step": 12500}
+{"val/mlm_loss": 1.879492335319519, "val/mlm_accuracy": 0.6134988857051894, "step": 12500}
+{"train/mlm_loss": 2.0282131671905517, "step": 12600}
+{"train/mlm_loss": 2.0548260486125947, "step": 12700}
+{"train/mlm_loss": 2.0423000693321227, "step": 12800}
+{"train/mlm_loss": 2.021022226810455, "step": 12900}
+{"train/mlm_loss": 2.026988421678543, "step": 13000}
+{"val/mlm_loss": 1.86481214427948, "val/mlm_accuracy": 0.6125383232899884, "step": 13000}
+{"train/mlm_loss": 2.0090021538734435, "step": 13100}
+{"train/mlm_loss": 2.0177934324741362, "step": 13200}
+{"train/mlm_loss": 2.0059594142436983, "step": 13300}
+{"train/mlm_loss": 2.005880060195923, "step": 13400}
+{"train/mlm_loss": 2.0261124992370605, "step": 13500}
+{"val/mlm_loss": 1.8486095733642578, "val/mlm_accuracy": 0.6145744680851064, "step": 13500}
+{"train/mlm_loss": 1.9907730996608735, "step": 13600}
+{"train/mlm_loss": 1.9912027978897096, "step": 13700}
+{"train/mlm_loss": 1.9938766467571258, "step": 13800}
+{"train/mlm_loss": 2.014908719062805, "step": 13900}
+{"train/mlm_loss": 1.9789846444129944, "step": 14000}
+{"val/mlm_loss": 1.8126591300964356, "val/mlm_accuracy": 0.619507767871443, "step": 14000}
+{"train/mlm_loss": 1.96091570854187, "step": 14100}
+{"train/mlm_loss": 1.9653805792331696, "step": 14200}
+{"train/mlm_loss": 1.9637684869766234, "step": 14300}
+{"train/mlm_loss": 1.96854332447052, "step": 14400}
+{"train/mlm_loss": 1.9690132069587707, "step": 14500}
+{"val/mlm_loss": 1.7648950777053833, "val/mlm_accuracy": 0.6265900260790889, "step": 14500}
+{"train/mlm_loss": 1.956522810459137, "step": 14600}
+{"train/mlm_loss": 1.9394688308238983, "step": 14700}
+{"train/mlm_loss": 1.9444875180721284, "step": 14800}
+{"train/mlm_loss": 1.9742584335803985, "step": 14900}
+{"train/mlm_loss": 1.9448117566108705, "step": 15000}
+{"val/mlm_loss": 1.8242396116256714, "val/mlm_accuracy": 0.6200958449628733, "step": 15000}
+{"train/mlm_loss": 1.9304221665859223, "step": 15100}
+{"train/mlm_loss": 1.9569755470752717, "step": 15200}
+{"train/mlm_loss": 1.9219573712348939, "step": 15300}
+{"train/mlm_loss": 1.9336333513259887, "step": 15400}
+{"train/mlm_loss": 1.9121207511425018, "step": 15500}
+{"val/mlm_loss": 1.75646075630188, "val/mlm_accuracy": 0.6300621384186844, "step": 15500}
+{"train/mlm_loss": 1.9173205280303955, "step": 15600}
+{"train/mlm_loss": 1.8854815018177034, "step": 15700}
+{"train/mlm_loss": 1.8791859710216523, "step": 15800}
+{"train/mlm_loss": 1.8889893543720246, "step": 15900}
+{"train/mlm_loss": 1.9041546177864075, "step": 16000}
+{"val/mlm_loss": 1.7563407039642334, "val/mlm_accuracy": 0.6287249893571732, "step": 16000}
+{"train/mlm_loss": 1.9062517583370209, "step": 16100}
+{"train/mlm_loss": 1.9038640415668489, "step": 16200}
+{"train/mlm_loss": 1.8960682833194733, "step": 16300}
+{"train/mlm_loss": 1.886888449192047, "step": 16400}
+{"train/mlm_loss": 1.884347151517868, "step": 16500}
+{"val/mlm_loss": 1.7195458612442016, "val/mlm_accuracy": 0.6383441110993321, "step": 16500}
+{"train/mlm_loss": 1.904448425769806, "step": 16600}
+{"train/mlm_loss": 1.8947518527507783, "step": 16700}
+{"train/mlm_loss": 1.8756946074962615, "step": 16800}
+{"train/mlm_loss": 1.8823770606517791, "step": 16900}
+{"train/mlm_loss": 1.8834448266029358, "step": 17000}
+{"val/mlm_loss": 1.779280122756958, "val/mlm_accuracy": 0.6334964365493032, "step": 17000}
+{"train/mlm_loss": 1.898631236553192, "step": 17100}
+{"train/mlm_loss": 1.866786642074585, "step": 17200}
+{"train/mlm_loss": 1.842762175798416, "step": 17300}
+{"train/mlm_loss": 1.8507546138763429, "step": 17400}
+{"train/mlm_loss": 1.8435550451278686, "step": 17500}
+{"val/mlm_loss": 1.6874032526016236, "val/mlm_accuracy": 0.646702737451117, "step": 17500}
+{"train/mlm_loss": 1.8284765350818635, "step": 17600}
+{"train/mlm_loss": 1.86120898604393, "step": 17700}
+{"train/mlm_loss": 1.8573982954025268, "step": 17800}
+{"train/mlm_loss": 1.836608704328537, "step": 17900}
+{"train/mlm_loss": 1.8176525259017944, "step": 18000}
+{"val/mlm_loss": 1.7523953742980958, "val/mlm_accuracy": 0.6312265666845206, "step": 18000}
+{"train/mlm_loss": 1.826371315717697, "step": 18100}
+{"train/mlm_loss": 1.832472301721573, "step": 18200}
+{"train/mlm_loss": 1.8571659696102143, "step": 18300}
+{"train/mlm_loss": 1.8264638984203339, "step": 18400}
+{"train/mlm_loss": 1.8448282814025878, "step": 18500}
+{"val/mlm_loss": 1.728650326728821, "val/mlm_accuracy": 0.6381432360742706, "step": 18500}
+{"train/mlm_loss": 1.8278303337097168, "step": 18600}
+{"train/mlm_loss": 1.8280523550510406, "step": 18700}
+{"train/mlm_loss": 1.827172075510025, "step": 18800}
+{"train/mlm_loss": 1.7990878033638, "step": 18900}
+{"train/mlm_loss": 1.8357133018970488, "step": 19000}
+{"val/mlm_loss": 1.695123374938965, "val/mlm_accuracy": 0.6402730375426621, "step": 19000}
+{"train/mlm_loss": 1.8020361113548278, "step": 19100}
+{"train/mlm_loss": 1.8014399790763855, "step": 19200}
+{"train/mlm_loss": 1.7947892332077027, "step": 19300}
+{"train/mlm_loss": 1.8074980115890502, "step": 19400}
+{"train/mlm_loss": 1.8092075788974762, "step": 19500}
+{"val/mlm_loss": 1.7241635875701904, "val/mlm_accuracy": 0.6407766990291263, "step": 19500}
+{"train/mlm_loss": 1.807051191329956, "step": 19600}
+{"train/mlm_loss": 1.794288319349289, "step": 19700}
+{"train/mlm_loss": 1.8103456246852874, "step": 19800}
+{"train/mlm_loss": 1.778308709859848, "step": 19900}
+{"train/mlm_loss": 1.8041839575767518, "step": 20000}
+{"val/mlm_loss": 1.6631455955505372, "val/mlm_accuracy": 0.6501674340728338, "step": 20000}
+{"train/mlm_loss": 1.7779904627799987, "step": 20100}
+{"train/mlm_loss": 1.8013479804992676, "step": 20200}
+{"train/mlm_loss": 1.793706204891205, "step": 20300}
+{"train/mlm_loss": 1.7785743045806885, "step": 20400}
+{"train/mlm_loss": 1.777376424074173, "step": 20500}
+{"val/mlm_loss": 1.6832916383743286, "val/mlm_accuracy": 0.6449301887779114, "step": 20500}
+{"train/mlm_loss": 1.7778682589530945, "step": 20600}
+{"train/mlm_loss": 1.7612772166728974, "step": 20700}
+{"train/mlm_loss": 1.7645497918128967, "step": 20800}
+{"train/mlm_loss": 1.7627198481559754, "step": 20900}
+{"train/mlm_loss": 1.7690351915359497, "step": 21000}
+{"val/mlm_loss": 1.6101168069839478, "val/mlm_accuracy": 0.6571383365856232, "step": 21000}
+{"train/mlm_loss": 1.770540326833725, "step": 21100}
+{"train/mlm_loss": 1.7746340763568877, "step": 21200}
+{"train/mlm_loss": 1.740818545818329, "step": 21300}
+{"train/mlm_loss": 1.772495791912079, "step": 21400}
+{"train/mlm_loss": 1.7428735244274138, "step": 21500}
+{"val/mlm_loss": 1.6132388124465942, "val/mlm_accuracy": 0.6572490706319702, "step": 21500}
+{"train/mlm_loss": 1.7516923820972443, "step": 21600}
+{"train/mlm_loss": 1.7372465193271638, "step": 21700}
+{"train/mlm_loss": 1.7589505755901336, "step": 21800}
+{"train/mlm_loss": 1.768052487373352, "step": 21900}
+{"train/mlm_loss": 1.7233045899868011, "step": 22000}
+{"val/mlm_loss": 1.6664813928604125, "val/mlm_accuracy": 0.6524081284335165, "step": 22000}
+{"train/mlm_loss": 1.7430096113681792, "step": 22100}
+{"train/mlm_loss": 1.7324211144447326, "step": 22200}
+{"train/mlm_loss": 1.7548358166217803, "step": 22300}
+{"train/mlm_loss": 1.7438587307929994, "step": 22400}
+{"train/mlm_loss": 1.7484378552436828, "step": 22500}
+{"val/mlm_loss": 1.6246848497390747, "val/mlm_accuracy": 0.6598664886515354, "step": 22500}
+{"train/mlm_loss": 1.7058269703388214, "step": 22600}
+{"train/mlm_loss": 1.7266699874401092, "step": 22700}
+{"train/mlm_loss": 1.7406867170333862, "step": 22800}
+{"train/mlm_loss": 1.737478985786438, "step": 22900}
+{"train/mlm_loss": 1.7423242509365082, "step": 23000}
+{"val/mlm_loss": 1.6155386180877687, "val/mlm_accuracy": 0.6568273518793799, "step": 23000}
+{"train/mlm_loss": 1.7417630684375762, "step": 23100}
+{"train/mlm_loss": 1.7094362366199494, "step": 23200}
+{"train/mlm_loss": 1.7185730671882629, "step": 23300}
+{"train/mlm_loss": 1.7185030138492585, "step": 23400}
+{"train/mlm_loss": 1.7316779541969298, "step": 23500}
+{"val/mlm_loss": 1.6108941326141357, "val/mlm_accuracy": 0.6607545952918413, "step": 23500}
+{"train/mlm_loss": 1.7058825159072877, "step": 23600}
+{"train/mlm_loss": 1.7201966369152069, "step": 23700}
+{"train/mlm_loss": 1.7142993199825287, "step": 23800}
+{"train/mlm_loss": 1.7041736876964568, "step": 23900}
+{"train/mlm_loss": 1.7105863666534424, "step": 24000}
+{"val/mlm_loss": 1.62115398979187, "val/mlm_accuracy": 0.6563998721091335, "step": 24000}
+{"train/mlm_loss": 1.729088683128357, "step": 24100}
+{"train/mlm_loss": 1.7272177171707153, "step": 24200}
+{"train/mlm_loss": 1.7046020448207855, "step": 24300}
+{"train/mlm_loss": 1.699817383289337, "step": 24400}
+{"train/mlm_loss": 1.69543151140213, "step": 24500}
+{"val/mlm_loss": 1.6122315940856933, "val/mlm_accuracy": 0.6570035365984354, "step": 24500}
+{"train/mlm_loss": 1.709376689195633, "step": 24600}
+{"train/mlm_loss": 1.6925628781318665, "step": 24700}
+{"train/mlm_loss": 1.696178171634674, "step": 24800}
+{"train/mlm_loss": 1.6717963373661042, "step": 24900}
+{"train/mlm_loss": 1.7021057772636414, "step": 25000}
+{"val/mlm_loss": 1.5863836708068848, "val/mlm_accuracy": 0.6632336713782776, "step": 25000}
+{"train/mlm_loss": 1.709792127609253, "step": 25100}
+{"train/mlm_loss": 1.6891771101951598, "step": 25200}
+{"train/mlm_loss": 1.6855416369438172, "step": 25300}
+{"train/mlm_loss": 1.689009232521057, "step": 25400}
+{"train/mlm_loss": 1.6757830500602722, "step": 25500}
+{"val/mlm_loss": 1.5432725410461425, "val/mlm_accuracy": 0.6664717452554356, "step": 25500}
+{"train/mlm_loss": 1.6811302971839905, "step": 25600}
+{"train/mlm_loss": 1.6747147738933563, "step": 25700}
+{"train/mlm_loss": 1.6825500643253326, "step": 25800}
+{"train/mlm_loss": 1.6993417274951934, "step": 25900}
+{"train/mlm_loss": 1.6870808064937592, "step": 26000}
+{"val/mlm_loss": 1.5366300458908082, "val/mlm_accuracy": 0.6701776784764336, "step": 26000}
+{"train/mlm_loss": 1.6781882059574127, "step": 26100}
+{"train/mlm_loss": 1.6855573523044587, "step": 26200}
+{"train/mlm_loss": 1.690488317012787, "step": 26300}
+{"train/mlm_loss": 1.6623695528507232, "step": 26400}
+{"train/mlm_loss": 1.6860037851333618, "step": 26500}
+{"val/mlm_loss": 1.5492552156448365, "val/mlm_accuracy": 0.6697999264821719, "step": 26500}
+{"train/mlm_loss": 1.6668824911117555, "step": 26600}
+{"train/mlm_loss": 1.6748970901966096, "step": 26700}
+{"train/mlm_loss": 1.6645692098140716, "step": 26800}
+{"train/mlm_loss": 1.6560183918476106, "step": 26900}
+{"train/mlm_loss": 1.6523078966140747, "step": 27000}
+{"val/mlm_loss": 1.58142280960083, "val/mlm_accuracy": 0.6667540227475235, "step": 27000}
+{"train/mlm_loss": 1.6546565675735474, "step": 27100}
+{"train/mlm_loss": 1.6813631415367127, "step": 27200}
+{"train/mlm_loss": 1.6662674939632416, "step": 27300}
+{"train/mlm_loss": 1.6679250860214234, "step": 27400}
+{"train/mlm_loss": 1.6606995558738709, "step": 27500}
+{"val/mlm_loss": 1.5480792675018311, "val/mlm_accuracy": 0.6685226429101707, "step": 27500}
+{"train/mlm_loss": 1.6652568471431732, "step": 27600}
+{"train/mlm_loss": 1.6481515407562255, "step": 27700}
+{"train/mlm_loss": 1.6753229701519012, "step": 27800}
+{"train/mlm_loss": 1.6588130652904511, "step": 27900}
+{"train/mlm_loss": 1.6580129051208496, "step": 28000}
+{"val/mlm_loss": 1.5545221014022828, "val/mlm_accuracy": 0.669540837917901, "step": 28000}
+{"train/mlm_loss": 1.6517401957511901, "step": 28100}
+{"train/mlm_loss": 1.6428250539302827, "step": 28200}
+{"train/mlm_loss": 1.6319766497612, "step": 28300}
+{"train/mlm_loss": 1.6360213243961335, "step": 28400}
+{"train/mlm_loss": 1.61776948928833, "step": 28500}
+{"val/mlm_loss": 1.5553094444274902, "val/mlm_accuracy": 0.6697664588396914, "step": 28500}
+{"train/mlm_loss": 1.6489668202400207, "step": 28600}
+{"train/mlm_loss": 1.6397781193256378, "step": 28700}
+{"train/mlm_loss": 1.6552295362949372, "step": 28800}
+{"train/mlm_loss": 1.6448566329479217, "step": 28900}
+{"train/mlm_loss": 1.648548367023468, "step": 29000}
+{"val/mlm_loss": 1.5334766550064087, "val/mlm_accuracy": 0.676919824533587, "step": 29000}
+{"train/mlm_loss": 1.6357377898693084, "step": 29100}
+{"train/mlm_loss": 1.6377432370185852, "step": 29200}
+{"train/mlm_loss": 1.6594875979423522, "step": 29300}
+{"train/mlm_loss": 1.6356632268428803, "step": 29400}
+{"train/mlm_loss": 1.640450713634491, "step": 29500}
+{"val/mlm_loss": 1.518504714012146, "val/mlm_accuracy": 0.6730442176870748, "step": 29500}
+{"train/mlm_loss": 1.6110852909088136, "step": 29600}
+{"train/mlm_loss": 1.6247246336936951, "step": 29700}
+{"train/mlm_loss": 1.6043098866939545, "step": 29800}
+{"train/mlm_loss": 1.6050441694259643, "step": 29900}
+{"train/mlm_loss": 1.5999395525455475, "step": 30000}
+{"val/mlm_loss": 1.5169399938583374, "val/mlm_accuracy": 0.6770278901426442, "step": 30000}
+{"train/mlm_loss": 1.6322980213165283, "step": 30100}
+{"train/mlm_loss": 1.6373063838481903, "step": 30200}
+{"train/mlm_loss": 1.612650488615036, "step": 30300}
+{"train/mlm_loss": 1.6186140167713166, "step": 30400}
+{"train/mlm_loss": 1.6214306151866913, "step": 30500}
+{"val/mlm_loss": 1.536315134048462, "val/mlm_accuracy": 0.67143690040812, "step": 30500}
+{"train/mlm_loss": 1.633135235309601, "step": 30600}
+{"train/mlm_loss": 1.62791787981987, "step": 30700}
+{"train/mlm_loss": 1.640215677022934, "step": 30800}
+{"train/mlm_loss": 1.6292945051193237, "step": 30900}
+{"train/mlm_loss": 1.6369791257381439, "step": 31000}
+{"val/mlm_loss": 1.5200049705505372, "val/mlm_accuracy": 0.6722666807991945, "step": 31000}
+{"train/mlm_loss": 1.6183402562141418, "step": 31100}
+{"train/mlm_loss": 1.6074026358127593, "step": 31200}
+{"train/mlm_loss": 1.6163633811473845, "step": 31300}
+{"train/mlm_loss": 1.6082068407535552, "step": 31400}
+{"train/mlm_loss": 1.5920271396636962, "step": 31500}
+{"val/mlm_loss": 1.5071005210876465, "val/mlm_accuracy": 0.6778630838131798, "step": 31500}
+{"train/mlm_loss": 1.6079521226882934, "step": 31600}
+{"train/mlm_loss": 1.60580362200737, "step": 31700}
+{"train/mlm_loss": 1.6173442089557648, "step": 31800}
+{"train/mlm_loss": 1.599647707939148, "step": 31900}
+{"train/mlm_loss": 1.614280970096588, "step": 32000}
+{"val/mlm_loss": 1.5131979217529297, "val/mlm_accuracy": 0.6763419058798421, "step": 32000}
+{"train/mlm_loss": 1.5973390471935272, "step": 32100}
+{"train/mlm_loss": 1.6241535246372223, "step": 32200}
+{"train/mlm_loss": 1.5590645778179169, "step": 32300}
+{"train/mlm_loss": 1.6190142488479615, "step": 32400}
+{"train/mlm_loss": 1.5946130323410035, "step": 32500}
+{"val/mlm_loss": 1.5054931926727295, "val/mlm_accuracy": 0.6782515991471215, "step": 32500}
+{"train/mlm_loss": 1.611811683177948, "step": 32600}
+{"train/mlm_loss": 1.5670888721942902, "step": 32700}
+{"train/mlm_loss": 1.5952491712570191, "step": 32800}
+{"train/mlm_loss": 1.5748790109157562, "step": 32900}
+{"train/mlm_loss": 1.55635884642601, "step": 33000}
+{"val/mlm_loss": 1.4991556434631348, "val/mlm_accuracy": 0.6802563833140696, "step": 33000}
+{"train/mlm_loss": 1.6036306595802308, "step": 33100}
+{"train/mlm_loss": 1.5682492852210999, "step": 33200}
+{"train/mlm_loss": 1.5790833592414857, "step": 33300}
+{"train/mlm_loss": 1.5882729089260101, "step": 33400}
+{"train/mlm_loss": 1.5763645362854004, "step": 33500}
+{"val/mlm_loss": 1.4662800874710082, "val/mlm_accuracy": 0.681763316714773, "step": 33500}
+{"train/mlm_loss": 1.5749594342708588, "step": 33600}
+{"train/mlm_loss": 1.5628931295871735, "step": 33700}
+{"train/mlm_loss": 1.5680619955062867, "step": 33800}
+{"train/mlm_loss": 1.5843444383144378, "step": 33900}
+{"train/mlm_loss": 1.555617083311081, "step": 34000}
+{"val/mlm_loss": 1.491253833770752, "val/mlm_accuracy": 0.6816715154720974, "step": 34000}
+{"train/mlm_loss": 1.5876739048957824, "step": 34100}
+{"train/mlm_loss": 1.5855370187759399, "step": 34200}
+{"train/mlm_loss": 1.561705981492996, "step": 34300}
+{"train/mlm_loss": 1.5812361669540405, "step": 34400}
+{"train/mlm_loss": 1.5705973887443543, "step": 34500}
+{"val/mlm_loss": 1.466775086402893, "val/mlm_accuracy": 0.6862336273723604, "step": 34500}
+{"train/mlm_loss": 1.5530824303627013, "step": 34600}
+{"train/mlm_loss": 1.5858378410339355, "step": 34700}
+{"train/mlm_loss": 1.5479068398475646, "step": 34800}
+{"train/mlm_loss": 1.5743993616104126, "step": 34900}
+{"train/mlm_loss": 1.5840830075740815, "step": 35000}
+{"val/mlm_loss": 1.4887525463104248, "val/mlm_accuracy": 0.6791171477079796, "step": 35000}
+{"train/mlm_loss": 1.5674937772750854, "step": 35100}
+{"train/mlm_loss": 1.5637692105770111, "step": 35200}
+{"train/mlm_loss": 1.5677979815006255, "step": 35300}
+{"train/mlm_loss": 1.5448963975906371, "step": 35400}
+{"train/mlm_loss": 1.567354313135147, "step": 35500}
+{"val/mlm_loss": 1.4893497705459595, "val/mlm_accuracy": 0.6789965986394558, "step": 35500}
+{"train/mlm_loss": 1.5853175258636474, "step": 35600}
+{"train/mlm_loss": 1.5772079241275787, "step": 35700}
+{"train/mlm_loss": 1.5787566101551056, "step": 35800}
+{"train/mlm_loss": 1.55955770611763, "step": 35900}
+{"train/mlm_loss": 1.5659771430492402, "step": 36000}
+{"val/mlm_loss": 1.4645274772644044, "val/mlm_accuracy": 0.6838544718478666, "step": 36000}
+{"train/mlm_loss": 1.561768559217453, "step": 36100}
+{"train/mlm_loss": 1.5672044360637665, "step": 36200}
+{"train/mlm_loss": 1.5407504189014434, "step": 36300}
+{"train/mlm_loss": 1.5304111909866334, "step": 36400}
+{"train/mlm_loss": 1.5376001393795014, "step": 36500}
+{"val/mlm_loss": 1.43588440990448, "val/mlm_accuracy": 0.6874298240923916, "step": 36500}
+{"train/mlm_loss": 1.5474291515350342, "step": 36600}
+{"train/mlm_loss": 1.5509827077388763, "step": 36700}
+{"train/mlm_loss": 1.5446502256393433, "step": 36800}
+{"train/mlm_loss": 1.5586153042316437, "step": 36900}
+{"train/mlm_loss": 1.568685827255249, "step": 37000}
+{"val/mlm_loss": 1.453478178024292, "val/mlm_accuracy": 0.6832089552238806, "step": 37000}
+{"train/mlm_loss": 1.5691152477264405, "step": 37100}
+{"train/mlm_loss": 1.5659631621837615, "step": 37200}
+{"train/mlm_loss": 1.5362808835506438, "step": 37300}
+{"train/mlm_loss": 1.545864601135254, "step": 37400}
+{"train/mlm_loss": 1.549761221408844, "step": 37500}
+{"val/mlm_loss": 1.4656243362426757, "val/mlm_accuracy": 0.6846436058700209, "step": 37500}
+{"train/mlm_loss": 1.5401466417312621, "step": 37600}
+{"train/mlm_loss": 1.5548867344856263, "step": 37700}
+{"train/mlm_loss": 1.5488966059684754, "step": 37800}
+{"train/mlm_loss": 1.5229506075382233, "step": 37900}
+{"train/mlm_loss": 1.5346444153785705, "step": 38000}
+{"val/mlm_loss": 1.4598852682113648, "val/mlm_accuracy": 0.6854817537411394, "step": 38000}
+{"train/mlm_loss": 1.557391610145569, "step": 38100}
+{"train/mlm_loss": 1.5535695958137512, "step": 38200}
+{"train/mlm_loss": 1.5342509984970092, "step": 38300}
+{"train/mlm_loss": 1.5278571736812592, "step": 38400}
+{"train/mlm_loss": 1.5522021973133087, "step": 38500}
+{"val/mlm_loss": 1.4081279673576355, "val/mlm_accuracy": 0.6963141025641025, "step": 38500}
+{"train/mlm_loss": 1.5488512647151946, "step": 38600}
+{"train/mlm_loss": 1.5179764342308044, "step": 38700}
+{"train/mlm_loss": 1.5247641468048097, "step": 38800}
+{"train/mlm_loss": 1.540077428817749, "step": 38900}
+{"train/mlm_loss": 1.5405886662006378, "step": 39000}
+{"val/mlm_loss": 1.4743961143493651, "val/mlm_accuracy": 0.6813948565985819, "step": 39000}
+{"train/mlm_loss": 1.5171540665626526, "step": 39100}
+{"train/mlm_loss": 1.511624573469162, "step": 39200}
+{"train/mlm_loss": 1.5375624227523803, "step": 39300}
+{"train/mlm_loss": 1.5201232433319092, "step": 39400}
+{"train/mlm_loss": 1.508398711681366, "step": 39500}
+{"val/mlm_loss": 1.4085989685058593, "val/mlm_accuracy": 0.6949225013361838, "step": 39500}
+{"train/mlm_loss": 1.542737375497818, "step": 39600}
+{"train/mlm_loss": 1.5318573021888733, "step": 39700}
+{"train/mlm_loss": 1.5280416131019592, "step": 39800}
+{"train/mlm_loss": 1.5356814551353455, "step": 39900}
+{"train/mlm_loss": 1.5317860054969787, "step": 40000}
+{"val/mlm_loss": 1.4286032238006592, "val/mlm_accuracy": 0.6923324224401222, "step": 40000}
+{"train/mlm_loss": 1.5372943890094757, "step": 40100}
+{"train/mlm_loss": 1.5274343407154083, "step": 40200}
+{"train/mlm_loss": 1.5183354568481446, "step": 40300}
+{"train/mlm_loss": 1.5119708859920502, "step": 40400}
+{"train/mlm_loss": 1.5280156433582306, "step": 40500}
+{"val/mlm_loss": 1.4352744827270507, "val/mlm_accuracy": 0.6874371327227486, "step": 40500}
+{"train/mlm_loss": 1.526216197013855, "step": 40600}
+{"train/mlm_loss": 1.5058306419849397, "step": 40700}
+{"train/mlm_loss": 1.513549200296402, "step": 40800}
+{"train/mlm_loss": 1.5103656125068665, "step": 40900}
+{"train/mlm_loss": 1.5080023157596587, "step": 41000}
+{"val/mlm_loss": 1.4641820755004882, "val/mlm_accuracy": 0.6838627158388403, "step": 41000}
+{"train/mlm_loss": 1.5194559371471406, "step": 41100}
+{"train/mlm_loss": 1.5135957872867585, "step": 41200}
+{"train/mlm_loss": 1.5009698379039764, "step": 41300}
+{"train/mlm_loss": 1.533472046852112, "step": 41400}
+{"train/mlm_loss": 1.5148386335372925, "step": 41500}
+{"val/mlm_loss": 1.4055262451171875, "val/mlm_accuracy": 0.7006675567423231, "step": 41500}
+{"train/mlm_loss": 1.5080795347690583, "step": 41600}
+{"train/mlm_loss": 1.532201623916626, "step": 41700}
+{"train/mlm_loss": 1.5114840185642242, "step": 41800}
+{"train/mlm_loss": 1.4986455631256104, "step": 41900}
+{"train/mlm_loss": 1.5283033454418182, "step": 42000}
+{"val/mlm_loss": 1.416102424621582, "val/mlm_accuracy": 0.6922349976374232, "step": 42000}
+{"train/mlm_loss": 1.5104706156253815, "step": 42100}
+{"train/mlm_loss": 1.5285414636135102, "step": 42200}
+{"train/mlm_loss": 1.4760152220726013, "step": 42300}
+{"train/mlm_loss": 1.4992155373096465, "step": 42400}
+{"train/mlm_loss": 1.5061466908454895, "step": 42500}
+{"val/mlm_loss": 1.4219840869903564, "val/mlm_accuracy": 0.6877430352101422, "step": 42500}
+{"train/mlm_loss": 1.4960991942882538, "step": 42600}
+{"train/mlm_loss": 1.4863406920433044, "step": 42700}
+{"train/mlm_loss": 1.5004599249362947, "step": 42800}
+{"train/mlm_loss": 1.5091538226604462, "step": 42900}
+{"train/mlm_loss": 1.5129335343837738, "step": 43000}
+{"val/mlm_loss": 1.4217792415618897, "val/mlm_accuracy": 0.6917954182205648, "step": 43000}
+{"train/mlm_loss": 1.499037311077118, "step": 43100}
+{"train/mlm_loss": 1.5091819322109223, "step": 43200}
+{"train/mlm_loss": 1.5089162838459016, "step": 43300}
+{"train/mlm_loss": 1.4986917865276337, "step": 43400}
+{"train/mlm_loss": 1.4874251341819764, "step": 43500}
+{"val/mlm_loss": 1.4158217458724975, "val/mlm_accuracy": 0.6935570039534138, "step": 43500}
+{"train/mlm_loss": 1.5083114361763001, "step": 43600}
+{"train/mlm_loss": 1.4997156965732574, "step": 43700}
+{"train/mlm_loss": 1.4823312664031982, "step": 43800}
+{"train/mlm_loss": 1.4850958168506623, "step": 43900}
+{"train/mlm_loss": 1.4673085117340088, "step": 44000}
+{"val/mlm_loss": 1.407802460670471, "val/mlm_accuracy": 0.693268927858868, "step": 44000}
+{"train/mlm_loss": 1.4971442496776581, "step": 44100}
+{"train/mlm_loss": 1.4787760651111603, "step": 44200}
+{"train/mlm_loss": 1.4992415261268617, "step": 44300}
+{"train/mlm_loss": 1.4801404750347138, "step": 44400}
+{"train/mlm_loss": 1.481082148551941, "step": 44500}
+{"val/mlm_loss": 1.4073957805633546, "val/mlm_accuracy": 0.6981746370623398, "step": 44500}
+{"train/mlm_loss": 1.4950254225730897, "step": 44600}
+{"train/mlm_loss": 1.502893875837326, "step": 44700}
+{"train/mlm_loss": 1.483570659160614, "step": 44800}
+{"train/mlm_loss": 1.4940391492843628, "step": 44900}
+{"train/mlm_loss": 1.4887945783138274, "step": 45000}
+{"val/mlm_loss": 1.3957837448120116, "val/mlm_accuracy": 0.6991296919216189, "step": 45000}
+{"train/mlm_loss": 1.486429660320282, "step": 45100}
+{"train/mlm_loss": 1.4919087505340576, "step": 45200}
+{"train/mlm_loss": 1.4941359400749206, "step": 45300}
+{"train/mlm_loss": 1.4805826222896576, "step": 45400}
+{"train/mlm_loss": 1.4646686851978301, "step": 45500}
+{"val/mlm_loss": 1.4058970918655396, "val/mlm_accuracy": 0.6960598398651496, "step": 45500}
+{"train/mlm_loss": 1.4546361923217774, "step": 45600}
+{"train/mlm_loss": 1.489150537252426, "step": 45700}
+{"train/mlm_loss": 1.4731795144081117, "step": 45800}
+{"train/mlm_loss": 1.489973816871643, "step": 45900}
+{"train/mlm_loss": 1.4783756840229034, "step": 46000}
+{"val/mlm_loss": 1.410247893333435, "val/mlm_accuracy": 0.6924702774108322, "step": 46000}
+{"train/mlm_loss": 1.4706945276260377, "step": 46100}
+{"train/mlm_loss": 1.4838246285915375, "step": 46200}
+{"train/mlm_loss": 1.4842033398151397, "step": 46300}
+{"train/mlm_loss": 1.48393545627594, "step": 46400}
+{"train/mlm_loss": 1.4747622179985047, "step": 46500}
+{"val/mlm_loss": 1.3848727798461915, "val/mlm_accuracy": 0.6991014799154334, "step": 46500}
+{"train/mlm_loss": 1.4621907806396484, "step": 46600}
+{"train/mlm_loss": 1.484932610988617, "step": 46700}
+{"train/mlm_loss": 1.5000388157367706, "step": 46800}
+{"train/mlm_loss": 1.4733898448944092, "step": 46900}
+{"train/mlm_loss": 1.4657528829574584, "step": 47000}
+{"val/mlm_loss": 1.3781754641532897, "val/mlm_accuracy": 0.7040232984575558, "step": 47000}
+{"train/mlm_loss": 1.4704198503494263, "step": 47100}
+{"train/mlm_loss": 1.4706168401241302, "step": 47200}
+{"train/mlm_loss": 1.4579341220855713, "step": 47300}
+{"train/mlm_loss": 1.4747403526306153, "step": 47400}
+{"train/mlm_loss": 1.4706407034397124, "step": 47500}
+{"val/mlm_loss": 1.3844374771118164, "val/mlm_accuracy": 0.7005703422053232, "step": 47500}
+{"train/mlm_loss": 1.4703037214279175, "step": 47600}
+{"train/mlm_loss": 1.469519976377487, "step": 47700}
+{"train/mlm_loss": 1.4687580275535583, "step": 47800}
+{"train/mlm_loss": 1.4808404755592346, "step": 47900}
+{"train/mlm_loss": 1.4598100924491881, "step": 48000}
+{"val/mlm_loss": 1.4022462282180785, "val/mlm_accuracy": 0.6951851452013387, "step": 48000}
+{"train/mlm_loss": 1.4658628165721894, "step": 48100}
+{"train/mlm_loss": 1.4669421577453614, "step": 48200}
+{"train/mlm_loss": 1.4558155167102813, "step": 48300}
+{"train/mlm_loss": 1.4594977605342865, "step": 48400}
+{"train/mlm_loss": 1.4492523753643036, "step": 48500}
+{"val/mlm_loss": 1.378854281425476, "val/mlm_accuracy": 0.6994509043927648, "step": 48500}
+{"train/mlm_loss": 1.4617666172981263, "step": 48600}
+{"train/mlm_loss": 1.4321470069885254, "step": 48700}
+{"train/mlm_loss": 1.4605295717716218, "step": 48800}
+{"train/mlm_loss": 1.4464854574203492, "step": 48900}
+{"train/mlm_loss": 1.439789559841156, "step": 49000}
+{"val/mlm_loss": 1.40988397026062, "val/mlm_accuracy": 0.6957971628202414, "step": 49000}
+{"train/mlm_loss": 1.4555307984352113, "step": 49100}
+{"train/mlm_loss": 1.4390044140815734, "step": 49200}
+{"train/mlm_loss": 1.455864382982254, "step": 49300}
+{"train/mlm_loss": 1.468333592414856, "step": 49400}
+{"train/mlm_loss": 1.4595989871025086, "step": 49500}
+{"val/mlm_loss": 1.4108859243392944, "val/mlm_accuracy": 0.6958996521555814, "step": 49500}
+{"train/mlm_loss": 1.4634789800643921, "step": 49600}
+{"train/mlm_loss": 1.4654193723201752, "step": 49700}
+{"train/mlm_loss": 1.4695098197460175, "step": 49800}
+{"train/mlm_loss": 1.4540378665924072, "step": 49900}
+{"train/mlm_loss": 1.4833634185791016, "step": 50000}
+{"val/mlm_loss": 1.37428000831604, "val/mlm_accuracy": 0.6983466666666667, "step": 50000}
+{"train/mlm_loss": 1.4456299078464507, "step": 50100}
+{"train/mlm_loss": 1.450562139749527, "step": 50200}
+{"train/mlm_loss": 1.4490034759044648, "step": 50300}
+{"train/mlm_loss": 1.4531081366539, "step": 50400}
+{"train/mlm_loss": 1.4617948198318482, "step": 50500}
+{"val/mlm_loss": 1.3797934217453003, "val/mlm_accuracy": 0.6991164405175134, "step": 50500}
+{"train/mlm_loss": 1.43990017414093, "step": 50600}
+{"train/mlm_loss": 1.4611371445655823, "step": 50700}
+{"train/mlm_loss": 1.4478846132755279, "step": 50800}
+{"train/mlm_loss": 1.4567117810249328, "step": 50900}
+{"train/mlm_loss": 1.4496864485740661, "step": 51000}
+{"val/mlm_loss": 1.4107322521209718, "val/mlm_accuracy": 0.6970150050728894, "step": 51000}
+{"train/mlm_loss": 1.4432086539268494, "step": 51100}
+{"train/mlm_loss": 1.4654268264770507, "step": 51200}
+{"train/mlm_loss": 1.4365816974639893, "step": 51300}
+{"train/mlm_loss": 1.4501908886432648, "step": 51400}
+{"train/mlm_loss": 1.4427477359771728, "step": 51500}
+{"val/mlm_loss": 1.3181251039505004, "val/mlm_accuracy": 0.7106944811196197, "step": 51500}
+{"train/mlm_loss": 1.4426498746871947, "step": 51600}
+{"train/mlm_loss": 1.4074091875553132, "step": 51700}
+{"train/mlm_loss": 1.439879411458969, "step": 51800}
+{"train/mlm_loss": 1.4385491931438446, "step": 51900}
+{"train/mlm_loss": 1.445433030128479, "step": 52000}
+{"val/mlm_loss": 1.3721455397605895, "val/mlm_accuracy": 0.703153010650638, "step": 52000}
+{"train/mlm_loss": 1.45771714925766, "step": 52100}
+{"train/mlm_loss": 1.4428658092021942, "step": 52200}
+{"train/mlm_loss": 1.4416192936897279, "step": 52300}
+{"train/mlm_loss": 1.438392550945282, "step": 52400}
+{"train/mlm_loss": 1.4461171221733093, "step": 52500}
+{"val/mlm_loss": 1.3570639572143555, "val/mlm_accuracy": 0.7035608622147084, "step": 52500}
+{"train/mlm_loss": 1.461719459295273, "step": 52600}
+{"train/mlm_loss": 1.4481870794296265, "step": 52700}
+{"train/mlm_loss": 1.4458950865268707, "step": 52800}
+{"train/mlm_loss": 1.4253776705265044, "step": 52900}
+{"train/mlm_loss": 1.4487248754501343, "step": 53000}
+{"val/mlm_loss": 1.36960138130188, "val/mlm_accuracy": 0.7022729698004482, "step": 53000}
+{"train/mlm_loss": 1.4436514961719513, "step": 53100}
+{"train/mlm_loss": 1.4460628724098206, "step": 53200}
+{"train/mlm_loss": 1.4207835257053376, "step": 53300}
+{"train/mlm_loss": 1.4350685608386993, "step": 53400}
+{"train/mlm_loss": 1.4347258448600768, "step": 53500}
+{"val/mlm_loss": 1.357916997909546, "val/mlm_accuracy": 0.7065628944047119, "step": 53500}
+{"train/mlm_loss": 1.4443519401550293, "step": 53600}
+{"train/mlm_loss": 1.439643108844757, "step": 53700}
+{"train/mlm_loss": 1.453722733259201, "step": 53800}
+{"train/mlm_loss": 1.4427177500724793, "step": 53900}
+{"train/mlm_loss": 1.4370208013057708, "step": 54000}
+{"val/mlm_loss": 1.335894507408142, "val/mlm_accuracy": 0.7047155688622755, "step": 54000}
+{"train/mlm_loss": 1.4019664061069488, "step": 54100}
+{"train/mlm_loss": 1.4456392085552217, "step": 54200}
+{"train/mlm_loss": 1.4122041165828705, "step": 54300}
+{"train/mlm_loss": 1.4444283044338226, "step": 54400}
+{"train/mlm_loss": 1.4173817479610442, "step": 54500}
+{"val/mlm_loss": 1.3458180894851686, "val/mlm_accuracy": 0.7043862882417987, "step": 54500}
+{"train/mlm_loss": 1.4355284643173218, "step": 54600}
+{"train/mlm_loss": 1.4307305109500885, "step": 54700}
+{"train/mlm_loss": 1.4140795385837555, "step": 54800}
+{"train/mlm_loss": 1.433997094631195, "step": 54900}
+{"train/mlm_loss": 1.4298877334594726, "step": 55000}
+{"val/mlm_loss": 1.3682584466934204, "val/mlm_accuracy": 0.6991336308742452, "step": 55000}
+{"train/mlm_loss": 1.4464233362674712, "step": 55100}
+{"train/mlm_loss": 1.4154397666454315, "step": 55200}
+{"train/mlm_loss": 1.4419081604480743, "step": 55300}
+{"train/mlm_loss": 1.4158794069290161, "step": 55400}
+{"train/mlm_loss": 1.415881427526474, "step": 55500}
+{"val/mlm_loss": 1.3532609252929688, "val/mlm_accuracy": 0.7033548523653297, "step": 55500}
+{"train/mlm_loss": 1.4141538894176484, "step": 55600}
+{"train/mlm_loss": 1.426604872941971, "step": 55700}
+{"train/mlm_loss": 1.4152397811412811, "step": 55800}
+{"train/mlm_loss": 1.4369540917873382, "step": 55900}
+{"train/mlm_loss": 1.4369944608211518, "step": 56000}
+{"val/mlm_loss": 1.3658834743499755, "val/mlm_accuracy": 0.7037330376471831, "step": 56000}
+{"train/mlm_loss": 1.4249057900905608, "step": 56100}
+{"train/mlm_loss": 1.417143133878708, "step": 56200}
+{"train/mlm_loss": 1.4060530471801758, "step": 56300}
+{"train/mlm_loss": 1.4371760725975036, "step": 56400}
+{"train/mlm_loss": 1.4168840253353119, "step": 56500}
+{"val/mlm_loss": 1.3790830402374268, "val/mlm_accuracy": 0.699753852739726, "step": 56500}
+{"train/mlm_loss": 1.4126315462589263, "step": 56600}
+{"train/mlm_loss": 1.4115024816989898, "step": 56700}
+{"train/mlm_loss": 1.4184096348285675, "step": 56800}
+{"train/mlm_loss": 1.4227544975280761, "step": 56900}
+{"train/mlm_loss": 1.4119224655628204, "step": 57000}
+{"val/mlm_loss": 1.3490744352340698, "val/mlm_accuracy": 0.7081150433016145, "step": 57000}
+{"train/mlm_loss": 1.4080125570297242, "step": 57100}
+{"train/mlm_loss": 1.4055378699302674, "step": 57200}
+{"train/mlm_loss": 1.4206714475154876, "step": 57300}
+{"train/mlm_loss": 1.418211017847061, "step": 57400}
+{"train/mlm_loss": 1.4254921495914459, "step": 57500}
+{"val/mlm_loss": 1.3590673475265502, "val/mlm_accuracy": 0.7030177231358774, "step": 57500}
+{"train/mlm_loss": 1.4086839413642884, "step": 57600}
+{"train/mlm_loss": 1.4078789567947387, "step": 57700}
+{"train/mlm_loss": 1.430452665090561, "step": 57800}
+{"train/mlm_loss": 1.4137715077400208, "step": 57900}
+{"train/mlm_loss": 1.4054516410827638, "step": 58000}
+{"val/mlm_loss": 1.347047254562378, "val/mlm_accuracy": 0.7057725138711054, "step": 58000}
+{"train/mlm_loss": 1.3925706684589385, "step": 58100}
+{"train/mlm_loss": 1.3841655242443085, "step": 58200}
+{"train/mlm_loss": 1.3952156019210815, "step": 58300}
+{"train/mlm_loss": 1.4234708309173585, "step": 58400}
+{"train/mlm_loss": 1.4238528513908386, "step": 58500}
+{"val/mlm_loss": 1.362017508506775, "val/mlm_accuracy": 0.7024523734343753, "step": 58500}
+{"train/mlm_loss": 1.4194837760925294, "step": 58600}
+{"train/mlm_loss": 1.406917542219162, "step": 58700}
+{"train/mlm_loss": 1.4253531515598297, "step": 58800}
+{"train/mlm_loss": 1.4066734004020691, "step": 58900}
+{"train/mlm_loss": 1.4130773401260377, "step": 59000}
+{"val/mlm_loss": 1.3131482000350951, "val/mlm_accuracy": 0.714225721784777, "step": 59000}
+{"train/mlm_loss": 1.427527701854706, "step": 59100}
+{"train/mlm_loss": 1.4129143142700196, "step": 59200}
+{"train/mlm_loss": 1.4116630971431732, "step": 59300}
+{"train/mlm_loss": 1.4000231516361237, "step": 59400}
+{"train/mlm_loss": 1.3945294141769409, "step": 59500}
+{"val/mlm_loss": 1.3390335683822632, "val/mlm_accuracy": 0.7094256026161717, "step": 59500}
+{"train/mlm_loss": 1.404147697687149, "step": 59600}
+{"train/mlm_loss": 1.3887057650089263, "step": 59700}
+{"train/mlm_loss": 1.415816843509674, "step": 59800}
+{"train/mlm_loss": 1.415507550239563, "step": 59900}
+{"train/mlm_loss": 1.3890671110153199, "step": 60000}
+{"val/mlm_loss": 1.3248813161849975, "val/mlm_accuracy": 0.7099984121103055, "step": 60000}

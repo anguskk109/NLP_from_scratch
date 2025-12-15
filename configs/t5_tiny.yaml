@@ -1,0 +1,9 @@
+hidden_size: 256
+num_layers: 4
+num_heads: 4
+ffn_hidden_size: 512
+dropout: 0.1
+max_seq_len: 128
+vocab_size: 50257
+span_corruption_rate: 0.15
+mean_span_length: 3

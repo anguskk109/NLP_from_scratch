@@ -1,0 +1,36 @@
+Transformer/
+├── configs/
+│   ├── bert_tiny.yaml
+│   ├── gpt_tiny.yaml
+│   └── t5_tiny.yaml
+│
+├── models/
+│   ├── modules/                      # ← SHARED low-level blocks
+│   │   ├── __init__.py
+│   │   ├── attention.py              # MultiHeadAttention (causal flag)
+│   │   ├── mlp.py                    # FeedForward
+│   │   ├── embeddings.py             # Token + Position
+│   │   ├── encoder_layer.py          # Self-Attention + FFN
+│   │   ├── decoder_layer.py          # Self-Attn + Cross-Attn + FFN
+│   │   └── prediction_head.py        # Tied output head
+│   │
+│   ├── __init__.py
+│   ├── encoder_only.py               # BERT-like (MLM, no NSP)
+│   ├── decoder_only.py               # GPT-like (Causal LM)
+│   └── encoder_decoder.py            # T5-like (Span Corruption)
+│
+├── train/
+│   ├── __init__.py
+│   ├── train_bert_mlm.py             # Entry: BERT pretraining
+│   ├── train_gpt_lm.py               # Entry: GPT pretraining
+│   └── train_t5_span_corrupt.py      # Entry: T5 pretraining
+│
+├── utils/
+│   ├── __init__.py
+│   ├── config.py                     # BaseConfig + model-specific configs
+│   ├── logging.py                    # JSON setup + metrics logging
+│   └── helpers.py                    # set_seed(), etc.
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
